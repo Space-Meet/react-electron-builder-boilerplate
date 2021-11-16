@@ -1,5 +1,4 @@
 <img src=".erb/img/erb-banner.png" width="100%" />
-React
 <br>
 
 <p>
